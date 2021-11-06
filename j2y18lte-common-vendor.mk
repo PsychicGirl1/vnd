@@ -60,36 +60,25 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j2y18lte/proprietary/etc/camera/s5k5e3yx_f2_2_chromatix_j3y17.xml:system/etc/camera/s5k5e3yx_f2_2_chromatix_j3y17.xml \
     vendor/samsung/j2y18lte/proprietary/etc/camera/sr259_chromatix.xml:system/etc/camera/sr259_chromatix.xml \
     vendor/samsung/j2y18lte/proprietary/etc/camera/sr846_chromatix.xml:system/etc/camera/sr846_chromatix.xml \
-    vendor/samsung/j2y18lte/proprietary/etc/firmware/cpp_firmware_v1_10_0.fw:system/etc/firmware/cpp_firmware_v1_10_0.fw \
-    vendor/samsung/j2y18lte/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
-    vendor/samsung/j2y18lte/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
-    vendor/samsung/j2y18lte/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
-    vendor/samsung/j2y18lte/proprietary/etc/firmware/cpp_firmware_v1_4_0.fw:system/etc/firmware/cpp_firmware_v1_4_0.fw \
-    vendor/samsung/j2y18lte/proprietary/etc/firmware/cpp_firmware_v1_5_0.fw:system/etc/firmware/cpp_firmware_v1_5_0.fw \
-    vendor/samsung/j2y18lte/proprietary/etc/firmware/cpp_firmware_v1_5_2.fw:system/etc/firmware/cpp_firmware_v1_5_2.fw \
-    vendor/samsung/j2y18lte/proprietary/etc/firmware/cpp_firmware_v1_6_0.fw:system/etc/firmware/cpp_firmware_v1_6_0.fw \
-    vendor/samsung/j2y18lte/proprietary/etc/firmware/cpp_firmware_v1_8_0.fw:system/etc/firmware/cpp_firmware_v1_8_0.fw \
-    vendor/samsung/j2y18lte-common/proprietary/lib/hw/camera.msm8937.so:system/lib/hw/camera.msm8937.so \
+    vendor/samsung/j2y18lte-common/proprietary/etc/firmware/cpp_firmware_v1_10_0.fw:system/etc/firmware/cpp_firmware_v1_10_0.fw \
+    vendor/samsung/j2y18lte-common/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
+    vendor/samsung/j2y18lte-common/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
+    vendor/samsung/j2y18lte-common/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
+    vendor/samsung/j2y18lte-common/proprietary/etc/firmware/cpp_firmware_v1_4_0.fw:system/etc/firmware/cpp_firmware_v1_4_0.fw \
+    vendor/samsung/j2y18lte-common/proprietary/etc/firmware/cpp_firmware_v1_5_0.fw:system/etc/firmware/cpp_firmware_v1_5_0.fw \
+    vendor/samsung/j2y18lte-common/proprietary/etc/firmware/cpp_firmware_v1_5_2.fw:system/etc/firmware/cpp_firmware_v1_5_2.fw \
+    vendor/samsung/j2y18lte-common/proprietary/etc/firmware/cpp_firmware_v1_6_0.fw:system/etc/firmware/cpp_firmware_v1_6_0.fw \
+    vendor/samsung/j2y18lte-common/proprietary/etc/firmware/cpp_firmware_v1_8_0.fw:system/etc/firmware/cpp_firmware_v1_8_0.fw \
+    vendor/samsung/j2y18lte-common/proprietary/lib/hw/camera.vendor.msm8937.so:system/lib/hw/camera.vendor.msm8937.so \
     vendor/samsung/j2y18lte-common/proprietary/lib/hw/sensors.msm8937.so:system/lib/hw/sensors.msm8937.so \
-    vendor/samsung/j2y18lte-common/proprietary/lib/libPedometer.so:system/lib/libPedometer.so \
-    vendor/samsung/j2y18lte-common/proprietary/lib/libSensorNativeProtocol.so:system/lib/libSensorNativeProtocol.so \
-    vendor/samsung/j2y18lte-common/proprietary/lib/libSensoryBargeInEngine.so:system/lib/libSensoryBargeInEngine.so \
-    vendor/samsung/j2y18lte-common/proprietary/lib/libSisoCameraDistortionEffects.so:system/lib/libSisoCameraDistortionEffects.so \
-    vendor/samsung/j2y18lte-common/proprietary/lib/libSwPedometer.so:system/lib/libSwPedometer.so \
     vendor/samsung/j2y18lte-common/proprietary/lib/libalawb_algo.so:system/lib/libalawb_algo.so \
     vendor/samsung/j2y18lte-common/proprietary/lib/libarac.so:system/lib/libarac.so \
     vendor/samsung/j2y18lte-common/proprietary/lib/libarcsoft_bestphoto_select.so:system/lib/libarcsoft_bestphoto_select.so \
     vendor/samsung/j2y18lte-common/proprietary/lib/libarcsoft_panorama_burstcapture.so:system/lib/libarcsoft_panorama_burstcapture.so \
-    vendor/samsung/j2y18lte-common/proprietary/lib/libarcsoft_selfie_camera_lite.so:system/lib/libarcsoft_selfie_camera_lite.so \
-    vendor/samsung/j2y18lte-common/proprietary/lib/libarcsoft_wideselfie.so:system/lib/libarcsoft_wideselfie.so \
     vendor/samsung/j2y18lte-common/proprietary/lib/libatomjpeg.so:system/lib/libatomjpeg.so \
-    vendor/samsung/j2y18lte-common/proprietary/lib/libbauthserver.so:system/lib/libbauthserver.so \
-    vendor/samsung/j2y18lte-common/proprietary/lib/libbauthtzcommon.so:system/lib/libbauthtzcommon.so \
     vendor/samsung/j2y18lte-common/proprietary/lib/libcameraservice_cameramodule.so:system/lib/libcameraservice_cameramodule.so \
     vendor/samsung/j2y18lte-common/proprietary/lib/libdmcFaceEngine.so:system/lib/libdmcFaceEngine.so \
     vendor/samsung/j2y18lte-common/proprietary/lib/libedmnativehelper.so:system/lib/libedmnativehelper.so \
-    vendor/samsung/j2y18lte-common/proprietary/lib/libegis_fp_normal_sensor_test.so:system/lib/libegis_fp_normal_sensor_test.so \
-    vendor/samsung/j2y18lte-common/proprietary/lib/libfidoauthnr_v1.so:system/lib/libfidoauthnr_v1.so \
     vendor/samsung/j2y18lte-common/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/samsung/j2y18lte-common/proprietary/lib/libmmcamera2_is.so:system/lib/libmmcamera2_is.so \
     vendor/samsung/j2y18lte-common/proprietary/lib/libmmcamera2_q3a_core.so:system/lib/libmmcamera2_q3a_core.so \
@@ -105,12 +94,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j2y18lte-common/proprietary/lib/libseccameracore.so:system/lib/libseccameracore.so \
     vendor/samsung/j2y18lte-common/proprietary/lib/libsecjpegquram.so:system/lib/libsecjpegquram.so \
     vendor/samsung/j2y18lte-common/proprietary/lib/libsupershot.so:system/lib/libsupershot.so \
-    vendor/samsung/j2y18lte-common/proprietary/lib/libsynaFpSensorTestNwd.so:system/lib/libsynaFpSensorTestNwd.so \
-    vendor/samsung/j2y18lte-common/proprietary/vendor/etc/yas_set.cfg:system/vendor/etc/yas_set.cfg \
-    vendor/samsung/j2y18lte-common/proprietary/vendor/lib/libPhotoEnhance.so:system/vendor/lib/libPhotoEnhance.so \
     vendor/samsung/j2y18lte-common/proprietary/vendor/lib/libQjpeg.so:system/vendor/lib/libQjpeg.so \
     vendor/samsung/j2y18lte-common/proprietary/vendor/lib/libSEF.so:system/vendor/lib/libSEF.so \
-    vendor/samsung/j2y18lte-common/proprietary/vendor/lib/libSecPedometer.so:system/vendor/lib/libSecPedometer.so \
     vendor/samsung/j2y18lte/proprietary/vendor/lib/libactuator_ad5816g.so:system/vendor/lib/libactuator_ad5816g.so \
     vendor/samsung/j2y18lte/proprietary/vendor/lib/libactuator_ad5823.so:system/vendor/lib/libactuator_ad5823.so \
     vendor/samsung/j2y18lte/proprietary/vendor/lib/libactuator_ak7345.so:system/vendor/lib/libactuator_ak7345.so \
@@ -547,12 +532,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j2y18lte-common/proprietary/vendor/lib/libsensor_reg.so:system/vendor/lib/libsensor_reg.so \
     vendor/samsung/j2y18lte-common/proprietary/vendor/lib/libsomp.so:system/vendor/lib/libsomp.so \
     vendor/samsung/j2y18lte-common/proprietary/vendor/lib/libtm_interface.so:system/vendor/lib/libtm_interface.so \
-    vendor/samsung/j2y18lte-common/proprietary/vendor/lib/libtmdisplay.so:system/vendor/lib/libtmdisplay.so \
     vendor/samsung/j2y18lte-common/proprietary/vendor/lib/libtrueportrait.so:system/vendor/lib/libtrueportrait.so \
     vendor/samsung/j2y18lte-common/proprietary/vendor/lib/libts_detected_face_hal.so:system/vendor/lib/libts_detected_face_hal.so \
     vendor/samsung/j2y18lte-common/proprietary/vendor/lib/libts_face_beautify_hal.so:system/vendor/lib/libts_face_beautify_hal.so \
     vendor/samsung/j2y18lte-common/proprietary/vendor/lib/libtzdrmgenprov.so:system/vendor/lib/libtzdrmgenprov.so \
     vendor/samsung/j2y18lte-common/proprietary/vendor/lib/libubifocus.so:system/vendor/lib/libubifocus.so \
-    vendor/samsung/j2y18lte-common/proprietary/vendor/lib/libyasalgo.so:system/vendor/lib/libyasalgo.so \
     vendor/samsung/j2y18lte-common/proprietary/vendor/lib/sensor_calibrate.so:system/vendor/lib/sensor_calibrate.so \
     vendor/samsung/j2y18lte-common/proprietary/vendor/lib/sensors.ssc.so:system/vendor/lib/sensors.ssc.so
